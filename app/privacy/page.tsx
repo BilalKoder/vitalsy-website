@@ -14,7 +14,7 @@ const sections = [
   {
     heading: "2. How We Use Your Information",
     body: "Your data is used solely to deliver and improve the Vitalsy AI experience: generating personalized insights, tracking your progress, and powering the AI assistant. We never sell your personal information to third parties.",
-  },
+  }, 
   {
     heading: "3. Data Security",
     body: "All data is encrypted in transit (TLS 1.2+) and at rest (AES-256). Access is strictly limited and audited. Our infrastructure follows industry best practices and enterprise-grade security standards.",
