@@ -20,6 +20,7 @@ const companyLinks = [
 const legalLinks = [
   { label: "Privacy Policy", href: "/privacy" },
   { label: "Terms of Service", href: "/terms" },
+  { label: "Delete Account", href: "/delete-account" },
   { label: "Cookie Policy", href: "#" },
   { label: "HIPAA Compliance", href: "#" },
 ];
