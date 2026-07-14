@@ -37,10 +37,10 @@ export default function DeleteAccountPage() {
             Open Vitalsy AI → Account → “Delete All Data”. You can also email us
             at{" "}
             <a
-              href="mailto:helpdesk@hitek.ai"
+              href="mailto:bilalaly1122@gmail.com"
               className="font-medium text-violet-600 underline dark:text-violet-400"
             >
-              helpdesk@hitek.ai
+              bilalaly1122@gmail.com
             </a>{" "}
             and we’ll remove your data within 30 days.
           </p>

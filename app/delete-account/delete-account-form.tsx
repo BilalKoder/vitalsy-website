@@ -60,7 +60,7 @@ export function DeleteAccountForm() {
 
       if (!delRes.ok) {
         setError(
-          "We couldn't delete your account. Please email helpdesk@hitek.ai and we'll remove it for you."
+          "We couldn't delete your account. Please email bilalaly1122@gmail.com and we'll remove it for you."
         );
         setStatus("error");
         return;
